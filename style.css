@@ -1,0 +1,77 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: rgb(118, 241, 241);
+    font-weight: bold;
+    
+}
+h1{
+    font-size: 100px;
+}
+.ramzanlogo{
+    width: 800px;
+    /* margin-top: -300px; */
+    margin-bottom: 0;
+}
+table,tr,th,td{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: -300px;
+    
+
+}
+body{
+    background-color:#0a5364;
+    background-image: url(realistic-ramadan-kareem-background_52683-57479.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+table,tr,th,td{
+    border: 1px solid #acc3b3;
+    border-radius: 5px ;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 800px;
+    background-color: #0a5364;
+    height: 2pc;
+}
+.container table{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.header{
+    /* background-color: #1a1a4b; */
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    color: #001317;
+}
+.color-1{
+    background-color: #0a0af5;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.color-2{
+    color: rgb(247, 10, 10);
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+td:hover{
+    background-color: #020f0f;
+
+}
+th:hover{
+    background-color: #020f0f ;
+
+}
